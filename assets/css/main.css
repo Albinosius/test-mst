@@ -414,7 +414,7 @@ footer.footer {
   width: calc(32% - 30px);
   object-fit: contain;
   overflow: hidden;
-  background: url(/assets/img/test1.webp);
+  background: url(/test-mst/assets/img/test1.webp);
   background-size: auto 100%;
   background-repeat: no-repeat;
 }
